@@ -1,0 +1,19 @@
+name: analysis
+channels:
+  - conda-forge
+dependencies:
+  - root
+  - pip
+  - uproot3
+  - uproot
+  - awkward
+  - pandas
+  - numpy
+  - lmfit
+  - scikit-learn
+  - keras
+  - np_utils
+  - tensorflow
+  - matplotlib
+  - vector 
+  - jupyterlab_latex
