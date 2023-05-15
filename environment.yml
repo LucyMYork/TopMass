@@ -17,3 +17,4 @@ dependencies:
   - matplotlib
   - vector 
   - jupyterlab_latex
+  - protobuf=3.18.0
