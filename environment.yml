@@ -4,6 +4,7 @@ channels:
 dependencies:
   - root
   - pip
+  - protobuf=3.18.0
   - uproot3
   - uproot
   - awkward
@@ -17,4 +18,3 @@ dependencies:
   - matplotlib
   - vector 
   - jupyterlab_latex
-  - protobuf=3.18.0
