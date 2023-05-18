@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - root
+  - python=3.11
   - pip
   - protobuf=3.18.0
   - uproot3
